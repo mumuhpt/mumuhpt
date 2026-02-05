@@ -2,11 +2,9 @@
 🚀 **Student and enthusiast of programming and AI | Python | JavaScript & TypeScript 
 🇧🇷 Brazil
 
-*## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+⚡ Currently I work with QTA (Automatic Transfer Switch) assembly for generator sets
+and I'm studying to become a full-stack programmer.
+I initially chose Python as my first programming language, but I will be switching to Java soon.
 
 ## 🚀 Philosophy
 
