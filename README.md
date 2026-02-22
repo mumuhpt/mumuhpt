@@ -10,4 +10,4 @@ I initially chose Python as my first programming language, but I will be switchi
 
 ### 🚀 Philosophy
 
-"The Winner Takes at All!"
+"The Winner Takes it All!"
