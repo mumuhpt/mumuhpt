@@ -8,9 +8,6 @@ and I'm studying to become a full-stack programmer.
 
 I initially chose Python as my first programming language, but I will be switching to Java soon.
 
-## 🚀 Philosophy
+### 🚀 Philosophy
 
-"Persistence and determination are very powerful, Show that you can't be defeated by anything, 
-that you have inner peace, incredible health, and consistently strong energy.
-If you strive to live these things every day, the results will be obvious to you.
-As much as it may seem like a fantasy, it's up to you to create your own future.
+"The Winner Takes at All!"
